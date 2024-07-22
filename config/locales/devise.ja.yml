@@ -1,12 +1,12 @@
 ja:
   devise:
-    # ログイン成功時のフラッシュメッセージ
+
     sessions:
       signed_in: 'Signed in successfully.'
-    # ログアウト成功時のフラッシュメッセージ
+
     sessions:
       signed_out: 'Signed out successfully.'
-    # ユーザー登録成功時のフラッシュメッセージ
+
     registrations:
       signed_up: 'Welcome! You have signed up successfully.'
-    # パスワード変更成功時のフラッシュメッセージ
+      invilid: 'Sign up error!'
